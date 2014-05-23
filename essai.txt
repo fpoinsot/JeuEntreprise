@@ -6,3 +6,4 @@ blob
 
 http://www.vogella.com/tutorials/EclipseGit/article.html#eclipseinstallation
 
+yep!
