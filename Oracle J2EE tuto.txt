@@ -1,0 +1,10 @@
+Pour utiliser Oracle sur J2EE :
+
+1) Installer JDBC sur le pc. Il est fournis avec le JDK
+
+2) Aller chercher sur le site d'oracle (ou sur google) 'ojdbc6.jar'. Le fichier est dans le dossier git sinon
+
+3) Pour extraire le fichier ojdbc6.jar, ouvrir l'invite de commande windows et saisir la commande suivante : 
+
+	jar xfv "C:\............\ojdbc6.jar"
+
